@@ -4,7 +4,7 @@
 
 Students will learn how CSS makes HTML _look fantastic_ and will practice writing basic CSS so they can apply their own custom styling to HTML.
 
-## SWBATS
+## Students Will Be Able To
 
 + CSS - Write simple sets of style rules to change the look of HTML
 + CSS - Be able to link CSS in multiple ways
@@ -92,8 +92,3 @@ body {
 * [CSS Full Reference Sheet](https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d7fb67af-5180-463d-b58a-bfd4a220d5d0/css3-cheat-sheet.pdf)
 * [CSS Reference](https://www.w3schools.com/cssref/default.asp)
 
-### Additional CSS Labs:
-
-* [CSS Selectors](https://github.com/learn-co-curriculum/upperline-hs-intro-software-engineering-css-selectors)
-* [Empire State Mock Site](https://github.com/learn-co-curriculum/upperline-hs-empire-state-css-challenge)
-* [Zetsy](https://github.com/learn-co-curriculum/kwk-l1-zetsy)
